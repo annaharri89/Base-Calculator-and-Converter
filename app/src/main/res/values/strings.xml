@@ -24,4 +24,21 @@
     <string name="btn_multiply">*</string>
     <string name="btn_divide">/</string>
     <string name="btn_equals">=</string>
+    <string-array name="base_array">
+        <item>Base 2 - Binary</item>
+        <item>Base 3 - Ternary</item>
+        <item>Base 4 - Quaternary</item>
+        <item>Base 5 - Quinary</item>
+        <item>Base 6 - Senary</item>
+        <item>Base 7 - Septenary</item>
+        <item>Base 8 - Octal</item>
+        <item>Base 9 - Nonary</item>
+        <item>Base 10 - Decimal</item>
+        <item>Base 11 - Undecimal</item>
+        <item>Base 12 - Duodecimal</item>
+        <item>Base 13 - Tridecimal</item>
+        <item>Base 14 - Tetradecimal</item>
+        <item>Base 15 - Pentadecimal</item>
+        <item>Base 16 - Hexadecimal</item>
+    </string-array>
 </resources>
